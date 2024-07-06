@@ -9,12 +9,12 @@ Over the past decade, I’ve transformed from a musician to a master tea sommeli
 When I'm not reading docs or pouring tea, you can find me hiking through nature or savoring a glass of natural wine.
 
 ### 🛠️ Tech Stack
-    Frontend: React, TypeScript, TailwindCSS
-    Backend: Node.js, Express.js
+
 
 ### GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mokalbari&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mokalbari&size_weight=0.5&count_weight=0.5)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mokalbari)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ☕ Tea Time
 Not only can I develop slick web applications, but I can also brew the perfect cup of tea.
