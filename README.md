@@ -1,5 +1,5 @@
 # Hi there, I'm Romain! 👋
-## Web Developer | Tea Aficionado
+**Web Developer | Tea Aficionado**
 
 ### 🧑‍💻 About Me
 I’m Romain, your friendly neighborhood web developer.  
@@ -18,10 +18,11 @@ This is my current tech stack. Things might evolve a lot during the next months 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### GitHub Stats
+### 🏆 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mokalbari&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mokalbari&size_weight=0.5&count_weight=0.5&theme=dracula)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mokalbari&theme=dracula)]
+
 
 ### ☕ Tea Time
 Not only can I develop slick web applications, but I can also brew the perfect cup of tea.
