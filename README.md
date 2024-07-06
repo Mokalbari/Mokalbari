@@ -20,7 +20,7 @@ This is my current tech stack. Things might evolve a lot during the next months 
 
 ### 🏆 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mokalbari&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mokalbari&size_weight=0.5&count_weight=0.5&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mokalbari&theme=dracula)]
 
 
