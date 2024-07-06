@@ -14,6 +14,7 @@ When I'm not reading docs or pouring tea, you can find me hiking through nature 
 
 ### GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mokalbari&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mokalbari&size_weight=0.5&count_weight=0.5)
 
 ### ☕ Tea Time
 Not only can I develop slick web applications, but I can also brew the perfect cup of tea.
