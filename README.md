@@ -20,12 +20,12 @@ This is my current tech stack. Things might evolve a lot during the next months 
 
 ### 🏆 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mokalbari&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mokalbari&layout=donut&theme=dracula)]
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mokalbari&theme=dracula)]
 
 
 ### ☕ Tea Time
-Not only can I develop slick web applications, but I can also brew the perfect cup of tea.
+Not only can I develop slick web applications, but I can also brew the perfect cup of tea.  
 Fancy a cup while you browse my projects? Let’s chat about the intricate flavors of a Sheng Pu Er or the savory umami of a Gyokuro.
 
 ### 🌐 Connect with Me
