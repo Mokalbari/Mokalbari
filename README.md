@@ -12,6 +12,9 @@ When I'm not reading docs or pouring tea, you can find me hiking through nature 
     Frontend: React, TypeScript, TailwindCSS
     Backend: Node.js, Express.js
 
+### GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mokalbari&show_icons=true&theme=radical)
+
 ### ☕ Tea Time
 Not only can I develop slick web applications, but I can also brew the perfect cup of tea.
 Fancy a cup while you browse my projects? Let’s chat about the intricate flavors of a raw Sheng or the savory umami of a Gyokuro.
