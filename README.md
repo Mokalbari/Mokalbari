@@ -13,10 +13,10 @@ When I'm not reading docs or pouring tea, you can find me hiking through nature 
 ### 🛠️ Tech Stack
 This is my current tech stack. Things might evolve a lot during the next months as I'm currently learning new things.  
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white) | 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🏆 GitHub Stats
@@ -26,8 +26,8 @@ This is my current tech stack. Things might evolve a lot during the next months 
 
 
 ### ☕ Tea Time
-While summertime's going crazy all around the world, you have to try a koridashi brewing method.  
-Brought from Japan, you just let some ice melt on top of your favorite tea.  
+While summertime's going crazy all around the world ☀️, you have to try a koridashi brewing method.  
+Brought from Japan 🗾, you just have to let some ice melt on top of your favorite tea.  
 This gets wild if you use this with some chinese black tea.  
 
 ### 🌐 Connect with Me
