@@ -1,11 +1,13 @@
 # Hi there, I'm Romain! 👋
 **Web Developer | Tea Aficionado**
 ### 🧑‍💻 About Me
-I’m Romain, your friendly neighborhood web developer.  
-But wait, there’s more! I’m also a certified master tea sommelier.  
-Yes, you read that right – I can both code a website and brew the perfect cup of tea.  
-Over the past decade, I’ve journeyed from being a musician to a master tea sommelier to a web developer.  
-What can I say? I like to keep things **interesting**.  
+Hey there! I'm Romain, your go-to TypeScript and React Web Developer ⚛️.  
+
+But that’s not all – I’m also a certified master tea sommelier.  
+Yes, you read that right – I can craft a flawless website and brew the perfect cup of tea.  
+
+In the last decade, I've transformed from a musician to a tea expert to a web developer.  
+What can I say? I thrive on keeping things exciting.  
 
 When I'm not reading docs or pouring tea, you can find me hiking through nature or savoring a glass of natural wine.
 
