@@ -1,5 +1,13 @@
 # Hi there, I'm Romain! 👋
 **Web Developer | Tea Aficionado**
+### 🧑‍💻 About Me
+I’m Romain, your friendly neighborhood web developer.  
+But wait, there’s more! I’m also a certified master tea sommelier.  
+Yes, you read that right – I can both code a website and brew the perfect cup of tea.  
+Over the past decade, I’ve journeyed from being a musician to a master tea sommelier to a web developer.  
+What can I say? I like to keep things **interesting**.  
+
+When I'm not reading docs or pouring tea, you can find me hiking through nature or savoring a glass of natural wine.
 
 ### 🛠️ Tech Stack
 This is my current tech stack. Things might evolve a lot during the next months as I'm currently learning new things.  
@@ -14,15 +22,6 @@ This is my current tech stack. Things might evolve a lot during the next months 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mokalbari&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mokalbari&layout=donut&theme=dracula)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Mokalbari&theme=dracula)
-
-### 🧑‍💻 About Me
-I’m Romain, your friendly neighborhood web developer.  
-But wait, there’s more! I’m also a certified master tea sommelier.  
-Yes, you read that right – I can both code a website and brew the perfect cup of tea.  
-Over the past decade, I’ve journeyed from being a musician to a master tea sommelier to a web developer.  
-What can I say? I like to keep things **interesting**.  
-
-When I'm not reading docs or pouring tea, you can find me hiking through nature or savoring a glass of natural wine.
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/romain-hoarau-alastor)
