@@ -22,8 +22,8 @@ This is my current tech stack. Things might evolve a lot during the next months 
 
 ### 🏆 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mokalbari&show_icons=true&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mokalbari&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mokalbari&layout=donut&theme=dracula)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mokalbari&theme=dracula)]
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/romain-hoarau-alastor)
