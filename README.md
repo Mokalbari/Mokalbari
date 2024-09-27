@@ -1,19 +1,15 @@
 # Hi there, I'm Romain! 👋
 **Web Developer | Tea Aficionado**
 ### 🧑‍💻 About Me
-Hey there! I'm Romain, your go-to TypeScript and React Web Developer ⚛️.  
+Back in 2023, I automated and streamlined 60% of my previous job, making it obsolete.
+That’s when I realized it was time for a change.
 
-But that’s not all – I’m also a certified master tea sommelier.  
-Yes, you read that right – I can craft a flawless website and brew the perfect cup of tea.  
-
-In the last decade, I've transformed from a musician to a tea expert to a web developer.  
-What can I say? I thrive on keeping things exciting.  
-
-When I'm not reading docs or pouring tea, you can find me hiking through nature or savoring a glass of natural wine.
+Now, I’m diving into Computer Science and Web Development, with a focus on NextJS.
 
 ### 🛠️ Tech Stack
 This is my current tech stack. Things might evolve a lot during the next months as I'm currently learning new things.  
 
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
