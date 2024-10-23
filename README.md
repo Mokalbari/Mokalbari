@@ -4,7 +4,7 @@
 Back in 2023, I was bored and decided to automate and streamline 60% of my previous job, making it obsolete.
 That’s when I realized it was time for a change.  
 
-Now, I’m diving into Computer Science and Web Development, with a focus on NextJS.
+Now, I’m diving into CS and Web Development, with a focus on NextJS React and TypeScript.
 
 ### 🛠️ Tech Stack
 This is my current tech stack. Things might evolve a lot during the next months as I'm currently learning new things.  
